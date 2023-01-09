@@ -10,4 +10,4 @@ To update a repository:
 	Step 1: Login to git using the command `gh auth login`
 	Step 2: Navigate to working directory in the terminal
 	Step 3: git add . && git commit -m "Enter commit message here"
-	Step 4: Enter the command `git push -u 'Enter path to github repo'`
+	Step 4: Enter the command `git push -u 'Enter path to github repo here.git'`

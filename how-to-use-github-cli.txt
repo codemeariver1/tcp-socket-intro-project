@@ -4,7 +4,7 @@ To initialize a new repository:
 	Step 3: Enter the command `git init -b main`
 	Step 4: git add . && git commit -m "Enter commit message here"
 	Step 5: Enter the command `gh repo create 'Enter name of repo here' --public`
-	Step 6: Enter the command `git push -u 'Enter path to github repo'`
+	Step 6: Enter the command `git push -u 'Enter path to github repo here.git'`
 
 To update a repository:
 	Step 1: Login to git using the command `gh auth login`
